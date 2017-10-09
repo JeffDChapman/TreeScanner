@@ -1,0 +1,5 @@
+C:\Users\jchapman\Desktop\DiskView-master\DumpTypesAndFiles\bin\Debug\DumpTypesAndFiles.exe
+C:\Users\jchapman\Desktop\DiskView-master\DumpTypesAndFiles\bin\Debug\DumpTypesAndFiles.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DumpTypesAndFiles\obj\Debug\DumpTypesAndFiles.exe
+C:\Users\jchapman\Desktop\DiskView-master\DumpTypesAndFiles\obj\Debug\DumpTypesAndFiles.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DumpTypesAndFiles\obj\Debug\DumpTypesAndFiles.csprojResolveAssemblyReference.cache

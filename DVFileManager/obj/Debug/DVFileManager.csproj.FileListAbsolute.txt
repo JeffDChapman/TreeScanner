@@ -1,0 +1,10 @@
+C:\Users\jchapman\Desktop\DiskView-master\DVFileManager\bin\Debug\DVFileManager.dll
+C:\Users\jchapman\Desktop\DiskView-master\DVFileManager\bin\Debug\DVFileManager.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DVFileManager\obj\Debug\DVFileManager.dll
+C:\Users\jchapman\Desktop\DiskView-master\DVFileManager\obj\Debug\DVFileManager.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DVFileManager\obj\Debug\DVFileManager.csprojResolveAssemblyReference.cache
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DVFileManager\bin\Debug\DVFileManager.dll
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DVFileManager\bin\Debug\DVFileManager.pdb
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DVFileManager\obj\Debug\DVFileManager.csprojResolveAssemblyReference.cache
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DVFileManager\obj\Debug\DVFileManager.dll
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DVFileManager\obj\Debug\DVFileManager.pdb

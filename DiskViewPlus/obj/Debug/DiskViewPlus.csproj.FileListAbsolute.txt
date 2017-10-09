@@ -1,0 +1,22 @@
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.exe
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\bin\Debug\DVFileManager.dll
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\bin\Debug\DVFileManager.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.csprojResolveAssemblyReference.cache
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.FrmFilter.resources
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.FrmMain.resources
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.csproj.GenerateResource.Cache
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.exe
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.pdb
+C:\Users\jchapman\Desktop\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.exe.config
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.exe.config
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.exe
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\bin\Debug\DiskViewPlus.pdb
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\bin\Debug\DVFileManager.dll
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\bin\Debug\DVFileManager.pdb
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.csprojResolveAssemblyReference.cache
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.FrmFilter.resources
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.FrmMain.resources
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.csproj.GenerateResource.Cache
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.exe
+C:\Users\jchapman\Documents\Visual Studio 2013\Projects\DiskView-master\DiskViewPlus\obj\Debug\DiskViewPlus.pdb
